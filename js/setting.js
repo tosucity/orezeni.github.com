@@ -28,11 +28,11 @@ OpenSpending.Styles.Cofog = {
   '108': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
   '109': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
   '110': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-  '111': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-  '112': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
-  '113': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-  '114': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '115': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
+//  '111': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
+//  '112': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
+//  '113': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
+//  '114': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
+//  '115': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
 };
 
 
