@@ -15,8 +15,8 @@ yepnope({
     '/js/libs/raphael-min.js',
     '/js/aggregator.js',
     '/css/dailybread.css',
-    '/js/setting.js?2013',
-    '/js/dailybread.js?2013'
+    '/js/setting.js?101',
+    '/js/dailybread.js?101'
   ],
   complete: function() {
 
@@ -31,7 +31,7 @@ yepnope({
            apiUrl: 'http://openspending.org/api',
            //localApiCache: 'aggregate.json',
            dataset: OpenSpending.identifier,
-           drilldowns: ['category', 'subcategory'],
+           drilldowns: ['Category', 'Subcategory'],
            cuts: ['year:' + OpenSpending.year],
            rootNodeLabel: 'Total',
            breakdown: 'Subcategory',
