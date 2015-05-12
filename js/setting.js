@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率(要確認！)
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'tosu_2015_yosan';
+OpenSpending.identifier = 'tosu_2014_yosan';
 OpenSpending.year = '2014';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
